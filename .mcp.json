@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-news-site-article-archive": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-news-site-article-archive"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
