@@ -98,7 +98,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 |---|---|---|---|---|
 | `article-row`, one article read from the publisher's page | $0.003 | $0.00285 | $0.0027 | $0.00255 |
 | `archived-article-row`, one article read from an Internet Archive copy, only for a page gone from the site | $0.003 | $0.00285 | $0.0027 | $0.00255 |
-| `apify-actor-start`, per run start | $0.02 | $0.02 | $0.02 | $0.02 |
+| `apify-actor-start`, per run start | $0.005 | $0.005 | $0.005 | $0.005 |
 
 Refused, paywalled, gone, and out of range pages, summary rows, and refused input are free. Mamba Labs pays the platform costs of the run, Apify proxy traffic included. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 
